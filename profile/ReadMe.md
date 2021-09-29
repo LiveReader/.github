@@ -1,0 +1,1 @@
+<img src="./icons/banner.svg" width="100%">
